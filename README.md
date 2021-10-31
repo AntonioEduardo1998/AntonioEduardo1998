@@ -7,7 +7,8 @@
 - Web Developer focused on front-end.
 
 - Currently working at Omnichat LTDA.
-<br><br>
+
+ <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
