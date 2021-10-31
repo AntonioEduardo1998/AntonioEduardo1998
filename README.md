@@ -1,5 +1,5 @@
 <div> 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/AntonioEduardo1998/66c099c63c9d2e1dc8119b25f2248dc0/raw/52a9b47e8d2140b81f5f1c6dffbd8d75bfaf4785/githubcard.svg"/>
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/AntonioEduardo1998/66c099c63c9d2e1dc8119b25f2248dc0/raw/52a9b47e8d2140b81f5f1c6dffbd8d75bfaf4785/githubcard.svg"/>
 <h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Antonio Eduardo R Oliveira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AntonioEduardo1998&color=blue" alt="Profile views" /> </p>
  
@@ -27,8 +27,6 @@
 
 
 <br><br>
-<br><br>
-<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -38,9 +36,6 @@
 </p>
 
 <br><br>
-  &nbsp;
-  &nbsp;
-  &nbsp;
 
 ## 💬 &nbsp;Social Links
 
