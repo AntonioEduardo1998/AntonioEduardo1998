@@ -1,5 +1,5 @@
 <div> 
-<img align="right" height="590em" src="https://gist.githubusercontent.com/AntonioEduardo1998/66c099c63c9d2e1dc8119b25f2248dc0/raw/77fffd5ac22af4105fe611dcbeee5afa502c6015/githubcard.svg"/>
+<img align="right" height="550em" src="https://gist.githubusercontent.com/AntonioEduardo1998/66c099c63c9d2e1dc8119b25f2248dc0/raw/77fffd5ac22af4105fe611dcbeee5afa502c6015/githubcard.svg"/>
 <h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Antonio Eduardo R Oliveira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AntonioEduardo1998&color=blue" alt="Profile views" /> </p>
 
