@@ -1,5 +1,5 @@
 
-<img align="right" height="590em" src="<script src="https://gist.github.com/AntonioEduardo1998/66c099c63c9d2e1dc8119b25f2248dc0.js"></script>"/>
+<img align="right" height="590em" src="https://gist.githubusercontent.com/AntonioEduardo1998/66c099c63c9d2e1dc8119b25f2248dc0/raw/77fffd5ac22af4105fe611dcbeee5afa502c6015/githubcard.svg"/>
 ## Antonio Eduardo Ribeiro de Oliveira
 <div align="center">
   <a href="https://github.com/AntonioEduardo1998">
