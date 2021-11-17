@@ -33,7 +33,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=AntonioEduardo1998&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="antonioeduardo1998's stats"/>
+<img width="530em" src="![Antonio Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioEduardo1998&count_private=true)
+" alt="antonioeduardo1998's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioEduardo1998&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="antonioeduardo1998's most languages"/>
 </p>
 
