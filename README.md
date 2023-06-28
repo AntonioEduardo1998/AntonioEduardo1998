@@ -45,8 +45,5 @@
 <a href="https://www.linkedin.com/in/antonio-eduardo-ribeiro-de-oliveira-9a7278127/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/_du_ardo" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-</a>
 </p>
 
